@@ -21,8 +21,8 @@
 - [MySQL Connector](https://downloads.mysql.com/archives/c-j/)
 
 ## Requisitos para rodar o projeto:
-- JDK 11+ instalado na sua máquina
-- Servidor Tomcat
+- JDK 11+
+- Tomcat
 - MySQL
 - MySQL Driver
 

@@ -1,4 +1,4 @@
-## Login Page With JavaEE (Servlet + JSP)
+## Login Page With JavaEE (Servlet + JSP + Tomcat)
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Java&message=Language&color=blue&style=for-the-badge&logo=SPRING%22"/>
